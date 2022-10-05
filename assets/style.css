@@ -18,6 +18,7 @@
 
     img {
         display: block;
+        /*assigns each image to start on a new line */
         height: 50px;
         width: 50px;
         margin-left: auto;
